@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Devendra Rana
 
-<!--
-**DevendraRana16/DevendraRana16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 AI Engineer | Computer Vision | Developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔭 Working on AI & Computer Vision
+- 🤖 Building intelligent systems using YOLO & OpenCV
+- ⚡ Focused on real-world problem solving
+
+---
+
+## 🛠️ Skills
+- Python  
+- AI / Machine Learning  
+- Computer Vision  
+- OpenCV, YOLO  
+- FastAPI  
+- Git & Linux  
+
+---
+
+## 📊 GitHub Stats
+![Devendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevendraRana16&show_icons=true&theme=radical)
+
+---
+
+## 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=DevendraRana16&theme=radical)
+
+---
+
+## 📫 Contact Me
+- GitHub: https://github.com/DevendraRana16
+- Email: devendrarana016@gmail.com
+
+---
+
+⭐️ From Devendra Rana
